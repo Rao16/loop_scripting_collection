@@ -17,3 +17,13 @@ echo "you have selected fruity. Thanks for choosing fruity. you will get fruity 
 esac
 break
 done
+=======================
+=================================================result after run this script
+sh test_select.sh
+[root@node2 loop_scripting]# sh test_select.sh 
+1) tea
+2) coffee
+3) Hot_water
+4) milk
+5) fruity
+HELLO USER KINDLY SELECT ANY ONE number WHICH YOU LIKE FOR DRINK:
